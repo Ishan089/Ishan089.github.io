@@ -1,0 +1,109 @@
+
+
+
+.margin1{
+	margin-top: 50px;
+
+}
+.green-back{
+	background-color: #1ebea5;
+	height:auto;
+}
+
+@media screen and (max-width: 400px){
+	.green-back{
+		background-color: #1ebea5;
+		
+		width:0vw;
+	}
+}
+.mes{
+	height:auto;
+	margin-top: 0vh;
+	
+
+}
+.pink{
+	background-color: #7a9fcc;
+	margin-top: 10px;
+	height:auto;
+	width: 10px;
+	border-radius: 5px;
+
+}
+#exampleModalLabel{
+	color:white;
+	margin-top: 10vh;
+}
+.green{
+	background-color: #1ebea5;
+	height:15vh;
+
+}
+
+.blue{
+	background-color: blue;
+	
+}
+.image1{
+	border-radius: 50%;
+	margin-top: 2vh;
+	
+}
+
+.nav-link{
+	color:white;
+	margin-top: 13vh;
+	text-decoration: underline;
+	
+}
+.back_{
+	background-color: #BDC3C7;
+	height:auto;
+}
+.back-ground{
+background-color: #1ebea5;
+margin-top:2vh;
+height:auto;
+}
+.border{
+	border-radius: 20px;
+	margin-top: 4px;
+	color: white;
+}
+.tomato{
+	margin-left: 3vw;
+	background-color: #ffffff ;
+	border-radius: 9px;
+	height:auto;
+	color:black;
+	border: 2px  black;
+	width: auto;
+	margin-top: 3vh;
+}	
+.back-yellow{
+	background-color: #dcf8c6;
+	border-radius: 9px;
+	height:auto;
+	color:black;
+	border: 2px  black;
+	width: auto;
+	margin-top: 3vh;
+}
+.image11{
+	margin-left: 7vw;
+}
+#exampleFormControlFile1{
+	margin-top: 5vh;
+	margin-left: 12vw;
+}
+#textarea{
+	margin-top: 12vh;
+	margin-bottom: 3vh;
+}
+
+.badge{
+	background-color:#09d261;
+	color:white;
+
+}
